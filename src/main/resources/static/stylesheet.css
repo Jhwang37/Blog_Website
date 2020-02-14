@@ -106,15 +106,15 @@ footer{
     float: left;
     width: 50%;
     padding: 10px;
-    text-align: center;
-
-}
+    text-align: center;}
 .social{
     border: 3px solid black ;
     width: fit-content;
-    float: inside;
+    margin-right: auto;
+    margin-left: auto;
     text-align: center;
     background: #b8d1cb;
+
 
 }
 .social button{
@@ -219,4 +219,7 @@ footer{
     0% { transform: translateY(0); }
     100% { transform: translateY(-40px); }
 }
+
+
+
 
